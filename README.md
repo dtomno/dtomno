@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dennis
-- 👀 I’m interested in Fullstac/Mobile App development
+- 👀 I’m interested in Fullstack/Mobile App development
 - 🌱 Skilled in React, Flutter, Nodejs, NoSQL, Oracle SQL and a little python. Currently working with spring boot/Java.
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me: deni.tomno@gmail.com
