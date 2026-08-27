@@ -5,7 +5,7 @@ Software Engineer building billing systems that run at national scale by day, an
 - 🏢 Software Engineer at **Indra Sistemas** — working on a large-scale Oracle/Pro*C/Java billing & CRM platform serving **500K+ customers** across Nigeria, Liberia, and Cameroon
 - 🌍 Based in Nairobi, Kenya
 - 🎓 BSc Telecommunication Engineering (Upper Second Class Honours), Strathmore University
-- 🔭 Currently building **Kikobas** — a chama/savings group platform for the Kenyan market, with an AI-powered chama advisor
+- 🔭 Currently building [**Kikobas**](https://staging.kikobas.com) — a chama/savings group platform for the Kenyan market, with an AI-powered chama advisor
 - 🌱 Deepening system design + DSA fundamentals, and modern event-driven architecture patterns
 - 💬 Ask me about legacy enterprise systems (Pro*C, Oracle, PowerBuilder) *and* modern full-stack (React Native, Next.js, Kafka, Docker)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/dennis-tomno) · [Portfolio](https://dennis-tomno.onrender.com)
