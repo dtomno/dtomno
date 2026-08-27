@@ -1,6 +1,6 @@
 # Hi, I'm Dennis Tomno 👋
 
-Software Engineer building billing systems that run at national scale by day, and fintech/product ideas for the Kenyan market by night.
+Software Engineer building billing and CRM systems that run at national scale by day, and fintech/product ideas for the Kenyan market by night.
 
 - 🏢 Software Engineer at **Indra Sistemas** — working on a large-scale Oracle/Pro*C/Java billing & CRM platform serving **500K+ customers** across Nigeria, Liberia, and Cameroon
 - 🌍 Based in Nairobi, Kenya
