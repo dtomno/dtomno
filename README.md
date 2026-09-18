@@ -2,7 +2,7 @@
 
 Software Engineer building billing and CRM systems that run at national scale by day, and fintech/product ideas for the Kenyan market by night.
 
-- 🏢 Software Engineer at **Indra Sistemas** — working on a large-scale Oracle/Pro*C/Java billing & CRM platform serving **500K+ customers** across Nigeria, Liberia, and Cameroon
+- 🏢 Software Engineer at **Indra Group** — working on a large-scale Oracle/Pro*C/Java billing & CRM platform serving **500K+ customers** across Nigeria, Liberia, and Cameroon
 - 🌍 Based in Nairobi, Kenya
 - 🎓 BSc Telecommunication Engineering (Upper Second Class Honours)
 - 🔭 Currently building [**Kikobas**](https://staging.kikobas.com) — a chama/savings group platform for the Kenyan market, with an AI-powered chama advisor
